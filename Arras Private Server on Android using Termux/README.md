@@ -9,7 +9,7 @@ It is how you can edit code for The Arras Private Server.
 
 To run the private server, use the following commands:
 
-`cd aps-plus-plus
+`cd aps-plus-plus &&
 ./run.sh        `
 
 Then go to your browser and type in 'localhost:26301'
