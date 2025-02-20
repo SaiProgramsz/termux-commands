@@ -15,3 +15,5 @@ To run the private server, use the following commands:
 Then go to your browser and type in 'localhost:26301'
 
 And your game is ready!
+
+To launch VS Code on mobile, type in code-server the open browser and search 'localhost:8080'
